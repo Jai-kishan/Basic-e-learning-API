@@ -1,0 +1,18 @@
+[
+
+    {
+        "id": 1,
+        "name": "Learning Python",
+        "description": "Iss course mein hum ache se shayad python seekh jayein.."
+    }
+    {
+        "id": 2,
+        "name": "Navgurukul's Constitution-English",
+        "description": "In this course you learn how to work council memner in Navgurukul"
+    },
+    {
+        "id": 3,
+        "name": "Learning JavaScript",
+        "description": "javaScript is the most powerfull and popular language"
+    }
+]
