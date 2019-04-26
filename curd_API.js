@@ -1,4 +1,8 @@
+//This is joi, joi allows you to create blueprints or schemas for JavaScript objects (an object that stores information) to ensure validation of key information.
 const Joi = require('joi');
+//The require() method is used to load and cache JavaScript modules. So, if you want to load a local,
+//relative JavaScript module into a Node.js application, you can simply use the require() method.
+//Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
 const express = require('express');
 const app = express();
 
